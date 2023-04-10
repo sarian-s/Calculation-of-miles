@@ -7,6 +7,10 @@ public class Main {
         System.out.println(miles);
         */
 
+        System.out.println("20");
+        System.out.println(service.calculate(20));
+        System.out.println();
+
         System.out.print("1000 руб  ");
         System.out.print(service.calculate(1000));
         System.out.println(" бонусов");
