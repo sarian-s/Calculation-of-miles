@@ -26,7 +26,8 @@ public class Main {
         System.out.println(" бонусов");
         System.out.println();
 
-        System.out.println("10 000 руб");
+        
+        System.out.println("10000 руб");
         System.out.print(service.calculate(10000));
         System.out.println(" бонусов");
     }
